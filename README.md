@@ -1,2 +1,2 @@
-Exemplos diversos em Python non Google Colaboratory.
+Exemplos diversos em Python no Google Colaboratory.
 
